@@ -7,6 +7,10 @@ A Chrome port of Ben Hollis' JSONView extension for Firefox: http://jsonview.com
 You too can enjoy JSON as it was intended:
 !https://addons.mozilla.org/en-US/firefox/images/p/29967/123796716!
 
+h2. TODO
+
+* [ ] endpoints are clickable links to endpoints at the current domain (prepend 'http://thisdomain.com/')
+
 h2. Ghetto JSON type detection
 
 Chrome doesn't currently support exposing mimetypes to extensions:
